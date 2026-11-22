@@ -1,4 +1,5 @@
 # jotly
+<img width="1365" height="720" alt="image" src="https://github.com/user-attachments/assets/3ed174cb-17e4-4689-9a40-7e91c94d3da4" />
 
 **By Bilaltrades** · 100% free · Offline-first trading journal for Windows 10 & 11.
 
@@ -124,7 +125,7 @@ Desktop data directory is strictly:
 
 Screenshots accept up to six images per trade or weekly reflection, at most 5 MB per image. Use upload or focus the screenshot area and Ctrl+V. Images are embedded as data URLs; they increase journal and backup size. No screenshot hosting.
 
-Creator social buttons intentionally open the system browser. Those external sites have their own privacy policies. Handles are based on the provided `Bilal_tradess` name and have not been ownership-verified; edit links and the capability allowlist together if necessary.
+Creator social buttons intentionally open the system browser. Those external sites have their own privacy policies. Handles are based on the provided `Bilaltrades` name and have not been ownership-verified; edit links and the capability allowlist together if necessary.
 
 ## Analytics definitions
 
