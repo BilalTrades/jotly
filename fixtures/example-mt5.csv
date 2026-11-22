@@ -1,0 +1,3 @@
+Deal,Symbol,Type,Volume,Open Time,Close Time,Open Price,Close Price,Commission,Swap,Profit
+1001,EURUSD,Buy,0.5,2026.11.19 09:00:00,2026.11.19 11:00:00,1.05,1.055,-3,0,250
+1002,XAUUSD,Sell,0.1,2026.11.20 13:00:00,2026.11.20 14:00:00,2650,2660,-2,0,-100
