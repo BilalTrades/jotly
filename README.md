@@ -1,6 +1,6 @@
 # jotly
 
-**By Bilal_tradess** · 100% free · Offline-first trading journal for Windows 10 & 11.
+**By Bilaltrades** · 100% free · Offline-first trading journal for Windows 10 & 11.
 
 An original React + TypeScript + Tailwind interface inside **Tauri v2**, with a Rust persistence and compressed-backup backend. No Electron, hosted database, analytics SDK, subscription, sign-in or runtime CDN. UI icons, charts, layouts and connectors are original code; framework dependencies and locally bundled open-source fonts retain their own licenses.
 
